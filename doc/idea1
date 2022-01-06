@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-06T03:19:03.542Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="aNhDjIHqO3LZSX_WBNiM" version="16.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-06T03:20:08.164Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="nujxpa03rGtzeoNf3KKO" version="16.1.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2013" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -105,10 +105,21 @@
           <mxGeometry x="874" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5xuGRnd2b4g_HlibBa-K-29" value="doris" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="300" y="740" width="160" height="120" as="geometry" />
+          <mxGeometry x="280" y="740" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="5xuGRnd2b4g_HlibBa-K-30" value="job monitor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="50" y="770" width="120" height="60" as="geometry" />
+          <mxGeometry x="60" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5xuGRnd2b4g_HlibBa-K-33" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="800" as="sourcePoint" />
+            <mxPoint x="200" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5xuGRnd2b4g_HlibBa-K-35" value="job status" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5xuGRnd2b4g_HlibBa-K-33">
+          <mxGeometry x="0.3429" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
